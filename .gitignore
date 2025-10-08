@@ -1,0 +1,12 @@
+# Ignore system files
+*.tmp
+*.bak
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore compiled or temp files
+*.zip
+*.rar
