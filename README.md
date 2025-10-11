@@ -1,9 +1,9 @@
-# CMPG 3255 – Computer Networks Individual Semester Project (2025)
+# CMPG 325 – Computer Networks Individual Semester Project (2025)
 
 **Department of Computer Science**  
 **Student Name:** Rethabile Pearl Khumalo
 **Student Number:** 37379046
-**Module:** CMPG 3255    
+**Module:** CMPG 325    
 **Submission Deadline:** 13 October 2025 @ 23:55  
 **Total Marks:** 100  
 
@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This project demonstrates the design, configuration, and documentation of multiple network topologies using **Cisco Packet Tracer**. The work is divided into three main parts as required by the CMPG 3255 project specification:
+This project demonstrates the design, configuration, and documentation of multiple network topologies using **Cisco Packet Tracer**. The work is divided into three main parts as required by the CMPG 325 project specification:
 
 ### **Part I: Network Topologies Design & Simulation (60%)**
 - Developed and simulated **five distinct topologies**:
