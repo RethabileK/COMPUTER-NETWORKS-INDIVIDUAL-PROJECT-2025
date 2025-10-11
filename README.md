@@ -21,9 +21,7 @@ This project demonstrates the design, configuration, and documentation of multip
   4. **Ring Topology**
   5. **Extended Star Topology**
 - Configured using both **IPv4 and IPv6 addressing**.
-  **Hybrid Topology**
-- Configured using both **IPv4 and IPv6 addressing**.
-- Implemented **VLAN segmentation**, Integrated at least one **server** (HTTP, DNS, and DHCP) , and **basic security**.
+-Created a **Hybrid Topology** configured using both **IPv4 and IPv6 addressing**, implemented **VLAN segmentation**, Integrated at least one **server** (HTTP, DNS, and DHCP) , and **basic security**.
 
 ---
 
