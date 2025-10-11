@@ -1,7 +1,8 @@
 # CMPG 3255 – Computer Networks Individual Semester Project (2025)
 
 **Department of Computer Science**  
-**Student Name:** Pethabile Pearl Khumalo  
+**Student Name:** Rethabile Pearl Khumalo
+**Student Number:** 37379046
 **Module:** CMPG 3255    
 **Submission Deadline:** 13 October 2025 @ 23:55  
 **Total Marks:** 100  
