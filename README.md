@@ -39,32 +39,6 @@ This project demonstrates the design, configuration, and documentation of multip
 
 ---
 
-## Repository Structure
-
- main
-┣  configs
-┃ ┣  hybrid_topology
-┃ ┃ ┣  Core-SW configs.txt
-┃ ┃ ┣  Dist-SW config.txt
-┃ ┃ ┣  Fince-SW config.txt
-┃ ┃ ┣  HR-SW config.txt
-┃ ┃ ┣  IT-SW config.txt
-┃ ┃ ┣  Sales-SW config.txt
-┃ ┃ ┣  Hybrid IPv4 configs.png
-┃ ┃ ┣  Hybrid IPv6 config.png
-┃ ┣  wireless_mesh
-┃ ┣  router_configs
-┃ ┣  switch_configs
-┣ docs
-┃ ┣  IP ADDRESSING TABLES.pdf
-┃ ┣  screenshots.md
-┃ ┣  topology_descriptions.md
-┃ ┣  video_script.md
-┣ successful_data_exchange_evidence
-┣ topologies
-┣ video
-┣ .gitignore
-┣ README.md
 
 
 ---
