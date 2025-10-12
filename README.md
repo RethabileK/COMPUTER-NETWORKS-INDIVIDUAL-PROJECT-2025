@@ -40,10 +40,6 @@ This project demonstrates the design, configuration, and documentation of multip
 ---
 
 
-
----
-
-
 ## Documentation Files
 
 | File Name | Description |
@@ -57,8 +53,7 @@ This project demonstrates the design, configuration, and documentation of multip
 
 ## Successful Data Exchange Evidence
 All configurations were verified through:
-- **Ping tests** (IPv4 and IPv6) between VLANs and departments  
-- **Server access tests** for HTTP, DNS, and DHCP functionality  
+- **Ping tests** (IPv4 and IPv6) between VLANs and departments    
 - **Traceroute analysis** confirming proper routing paths  
 - **Wireless mesh connectivity** verification  
 
@@ -66,9 +61,12 @@ All configurations were verified through:
 
 ## Reflection & Lessons Learned
 Throughout this project:
-- Gained hands-on experience in  network design and configuration.  
+- Gained experience in  network design and configuration using Cisco Packet Tracer .  
 - Enhanced understanding of VLANs, subnetting, and routing.  
-- Developed documentation and version control skills through GitHub commits and gained experience on using GitHub.  
+- Developed documentation and version control skills through GitHub commits and gained experience on using GitHub.
+- Learned the difference between the topologies and understood how each structure affects perfomance, realibility and collusion.
+- Gained experience on assigning IPv4 and IPv6 addresses and verifying communication.
+- Understood the importance of subnetting and gateways for proper routing and connectivity.
 
 ---
 
@@ -76,9 +74,8 @@ Throughout this project:
 The demonstration video (available in the `video` folder) includes:
 1. Network design explanation  
 2. Configuration steps for IPv4 and IPv6  
-3. Testing connectivity and verifying services  
-4. Wireless mesh configuration showcase  
-5. Final reflections and conclusion  
+3. Testing connectivity and verifying services   
+4. Final reflections and conclusion  
 
 ---
 
