@@ -49,9 +49,9 @@ This project demonstrates the design, configuration, and documentation of multip
 | File Name | Description |
 |------------|-------------|
 | `IP ADDRESSING TABLES.pdf` | Detailed IPv4 and IPv6 address plan for all topologies |
-| `screenshots.md` | Screenshots of successful data exchange |
+| `successful_data_exchange_evidence` | Screenshots of successful data exchange |
 | `topology_descriptions.md` | Description of all 7 network topologies and their functionality |
-| `video_script.md` | Outline and narration plan for the demonstration video |
+| `video` |The link to the presentation video |
 
 ---
 
